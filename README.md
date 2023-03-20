@@ -2,9 +2,7 @@
 
 ## Swagger URL localhost
 ```
-{
     https://localhost:7236/swagger/index.html
-}
 ```
 
 ## Log in
