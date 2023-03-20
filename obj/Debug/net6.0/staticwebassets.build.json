@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cm1BcyMRhnWt6c6rkoYkElx7rYVHq4ra/rzi581eSBk=",
+  "Source": "liquorApi",
+  "BasePath": "_content/liquorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
